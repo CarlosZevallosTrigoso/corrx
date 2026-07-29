@@ -87,6 +87,9 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`. Los capítulos suelt
 - **`Agüero & Del Pino (comps) - ¿Un museo después de Gaza? Dilemas sobre la memoria.md`**
   José Carlos Agüero y Ponciano del Pino (comps.). Volumen sobre los dilemas de la memoria, la museificación y la representación del pasado violento (La Siniestra Ensayos).
 
+- **`Denegri & Hibbett (eds) - Dando cuenta. Estudios sobre el testimonio de la violencia política en el Perú 1980-2000 (2016).md`**
+  Francesca Denegri y Alexandra Hibbett (eds.). Ensayos sobre el archivo de casi 17 000 testimonios de la CVR: lecturas interdisciplinarias del testimonio y la memoria de la violencia política en el Perú (Fondo Editorial PUCP).
+
 ## Cono Sur: dictadura, duelo y posdictadura
 
 - **`Stern & Winn - No hay mañana sin ayer. Batallas por la memoria histórica en el Cono Sur (2014).md`**
