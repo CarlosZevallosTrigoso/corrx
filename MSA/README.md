@@ -17,6 +17,14 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Agüero - Los rendidos. Sobre el don de perdonar (2015).md`**
   José Carlos Agüero. Ensayo autobiográfico y político sobre la condición de hijo de militantes de Sendero Luminoso: memoria, culpa, perdón y las ambigüedades de las categorías víctima/victimario en el Perú.
 
+## Afectos, emoción y política
+
+- **`Ahmed - The Cultural Politics of Emotion (2004).md`**
+  Sara Ahmed. Cómo las emociones (miedo, dolor, odio, amor) circulan socialmente y "pegan" a cuerpos y objetos, produciendo fronteras entre el yo y los otros; base para pensar la política afectiva de la víctima.
+
+- **`Burt - Quien habla es terrorista. The Political Use of Fear in Fujimori's Peru (2006).pdf`**
+  Jo-Marie Burt. Estudio sobre el uso político del miedo y la estigmatización ("quien habla es terrorista") como tecnología de poder durante el fujimorato en el Perú.
+
 ## Memoria y postmemoria
 
 - **`Hirsch - The Generation of Postmemory (2012).md`**
@@ -32,6 +40,14 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 
 - **`Fassin & Honneth - The Heuristic of Crises (2022).md`**
   Introducción de Didier Fassin y Axel Honneth. Propone estudiar las crisis no desde su definición externa, sino desde la crítica que producen quienes las viven ("heurística de las crisis").
+
+## Verdad, decir y relación
+
+- **`Foucault - Discurso y verdad. El coraje de decirlo (2017).md`**
+  Michel Foucault. Curso sobre la *parrhesía*: el "decir veraz" y el coraje de hablar con franqueza asumiendo el riesgo; ética de la palabra y del testimonio.
+
+- **`Glissant - Poética da relação (2021).md`**
+  Édouard Glissant. Poética de la *relación*, la opacidad y el mundo como archipiélago; pensar la identidad no como raíz única sino como vínculo y mezcla. *(edición en portugués)*
 
 ## Cultura, aspiración y archivo (Appadurai)
 
