@@ -1,8 +1,8 @@
 # MSA — Índice de textos
 
-Colección de textos sobre **teoría de la víctima, memoria, postmemoria, violencia política y crítica**, con foco tanto en el debate teórico internacional como en el caso peruano.
+Colección de textos sobre **teoría de la víctima, memoria, postmemoria, violencia política y crítica**, con foco tanto en el debate teórico internacional como en América Latina (Perú y el Cono Sur).
 
-Nomenclatura de los archivos: `Autor - Título (Año).ext`.
+Nomenclatura de los archivos: `Autor - Título (Año).ext`. Los capítulos sueltos se marcan con `(cap.)`.
 
 ---
 
@@ -25,7 +25,7 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Burt - Quien habla es terrorista. The Political Use of Fear in Fujimori's Peru (2006).pdf`**
   Jo-Marie Burt. Estudio sobre el uso político del miedo y la estigmatización ("quien habla es terrorista") como tecnología de poder durante el fujimorato en el Perú.
 
-## Memoria, silencio y postmemoria
+## Memoria: teoría y estudios
 
 - **`Hirsch - The Generation of Postmemory (2012).md`**
   Marianne Hirsch. Formula el concepto de *postmemoria*: la relación de las generaciones posteriores con el trauma que no vivieron directamente, transmitido por imágenes, relatos y cultura visual.
@@ -33,22 +33,23 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Das - Life and Words (2007).md`**
   Veena Das (con Stanley Cavell). Etnografía sobre cómo la violencia se inscribe en lo ordinario y en el lenguaje; el descenso de lo extraordinario del daño a la vida cotidiana.
 
+- **`Jelin - The Struggle for the Past. How We Construct Social Memories (2021).md`**
+  Elizabeth Jelin. Síntesis sobre cómo se construyen, disputan y transmiten las memorias sociales; actores, marcos y luchas por el sentido del pasado.
+
+- **`Bevernage - History, Memory, and State-Sponsored Violence. Time and Justice (2011).md`**
+  Berber Bevernage. Sobre la temporalidad de la justicia transicional: cómo el pasado violento "no pasa" y tensiona las nociones lineales de tiempo, historia y reparación.
+
 - **`Bull & Hansen - On Agonistic Memory (2016).pdf`**
   Anna Cento Bull y Hans Lauge Hansen. Proponen la *memoria agonística* como alternativa a los modos cosmopolita y antagónico de recordar; recordar el pasado violento sin borrar el conflicto ni reactivar el odio.
 
 - **`Vinitzky-Seroussi & Teeger - Unpacking the Unspoken. Silence in Collective Memory and Forgetting (2010).pdf`**
   Vered Vinitzky-Seroussi y Chana Teeger. El silencio como parte activa de la memoria colectiva: distinguen silencio manifiesto y encubierto y su papel en recordar u olvidar (caso del asesinato de Rabin).
 
+- **`Rigney - Remembering Hope. The Cultural Afterlife of Protest (2025).md`**
+  Ann Rigney. Sobre cómo la memoria de las luchas y protestas del pasado deja una "vida póstuma" cultural que alimenta la esperanza y la movilización futura.
+
 - **`Hartman - Venus in Two Acts (2008).pdf`**
   Saidiya Hartman. Sobre los límites del archivo y la representación de las vidas esclavizadas; la *fabulación crítica* como respuesta a la violencia del silencio documental.
-
-## Crítica y teoría crítica
-
-- **`Fassin & Harcourt (eds) - A Time for Critique (2019).md`**
-  Volumen editado por Didier Fassin y Bernard E. Harcourt. Repensar el sentido y las tareas de la crítica en el presente.
-
-- **`Fassin & Honneth - The Heuristic of Crises (2022).md`**
-  Introducción de Didier Fassin y Axel Honneth. Propone estudiar las crisis no desde su definición externa, sino desde la crítica que producen quienes las viven ("heurística de las crisis").
 
 ## Verdad, decir y relación
 
@@ -74,6 +75,9 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Vich - Poéticas del duelo. Conferencia Reina Sofía (2020) [transcripción].txt`**
   Transcripción de la conferencia de Víctor Vich en el Museo Reina Sofía (2020) sobre poéticas del duelo y representación de la pérdida.
 
+- **`Milton (ed) - Art From a Fractured Past. Memory and Truth-Telling in Post-Shining Path Peru (2014).md`**
+  Cynthia E. Milton (ed.), con epílogo de Steve J. Stern. Cómo el arte y la producción cultural narran la verdad sobre la violencia en el Perú posterior a Sendero Luminoso.
+
 - **`Ulfe - La memoria, la esfera pública y la nación en tiempo heterogéneo (cap.).md`**
   María Eugenia Ulfe. Memoria, temporalidad e identidad (con Ricoeur) y la idea de "nación en tiempo heterogéneo" en la esfera pública peruana. *(capítulo del libro Mirando la esfera pública desde la cultura en el Perú)*
 
@@ -82,3 +86,14 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 
 - **`Agüero & Del Pino (comps) - ¿Un museo después de Gaza? Dilemas sobre la memoria.md`**
   José Carlos Agüero y Ponciano del Pino (comps.). Volumen sobre los dilemas de la memoria, la museificación y la representación del pasado violento (La Siniestra Ensayos).
+
+## Cono Sur: dictadura, duelo y posdictadura
+
+- **`Stern & Winn - No hay mañana sin ayer. Batallas por la memoria histórica en el Cono Sur (2014).md`**
+  Steve J. Stern y Peter Winn (eds.). Las disputas por la memoria histórica de las dictaduras en Chile, Argentina y Uruguay.
+
+- **`Ros - The Post-Dictatorship Generation in Argentina, Chile, and Uruguay (2012).md`**
+  Ana Ros. La generación posterior a las dictaduras del Cono Sur y su relación con el legado del terror de Estado a través de cine, literatura y testimonio.
+
+- **`Sosa - Queering Acts of Mourning in the Aftermath of Argentina's Dictatorship (2014).md`**
+  Cecilia Sosa. Formas no filiativas y "queer" del duelo tras la dictadura argentina, más allá del parentesco de sangre como base de la memoria y la pérdida.
