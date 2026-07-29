@@ -25,13 +25,22 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Burt - Quien habla es terrorista. The Political Use of Fear in Fujimori's Peru (2006).pdf`**
   Jo-Marie Burt. Estudio sobre el uso político del miedo y la estigmatización ("quien habla es terrorista") como tecnología de poder durante el fujimorato en el Perú.
 
-## Memoria y postmemoria
+## Memoria, silencio y postmemoria
 
 - **`Hirsch - The Generation of Postmemory (2012).md`**
   Marianne Hirsch. Formula el concepto de *postmemoria*: la relación de las generaciones posteriores con el trauma que no vivieron directamente, transmitido por imágenes, relatos y cultura visual.
 
 - **`Das - Life and Words (2007).md`**
   Veena Das (con Stanley Cavell). Etnografía sobre cómo la violencia se inscribe en lo ordinario y en el lenguaje; el descenso de lo extraordinario del daño a la vida cotidiana.
+
+- **`Bull & Hansen - On Agonistic Memory (2016).pdf`**
+  Anna Cento Bull y Hans Lauge Hansen. Proponen la *memoria agonística* como alternativa a los modos cosmopolita y antagónico de recordar; recordar el pasado violento sin borrar el conflicto ni reactivar el odio.
+
+- **`Vinitzky-Seroussi & Teeger - Unpacking the Unspoken. Silence in Collective Memory and Forgetting (2010).pdf`**
+  Vered Vinitzky-Seroussi y Chana Teeger. El silencio como parte activa de la memoria colectiva: distinguen silencio manifiesto y encubierto y su papel en recordar u olvidar (caso del asesinato de Rabin).
+
+- **`Hartman - Venus in Two Acts (2008).pdf`**
+  Saidiya Hartman. Sobre los límites del archivo y la representación de las vidas esclavizadas; la *fabulación crítica* como respuesta a la violencia del silencio documental.
 
 ## Crítica y teoría crítica
 
@@ -57,10 +66,19 @@ Nomenclatura de los archivos: `Autor - Título (Año).ext`.
 - **`Appadurai - Archive and Aspiration.pdf`**
   Texto sobre el archivo como proyecto orientado al futuro y a la aspiración, no solo como registro del pasado.
 
-## Arte, violencia y política en el Perú (Vich)
+## Perú: memoria, testimonio, arte y esfera pública
 
 - **`Vich - La violencia, la dictadura y la globalización (2013).md`**
   Víctor Vich. Ensayos sobre arte y política en el Perú contemporáneo, en relación con la violencia del conflicto armado interno.
 
 - **`Vich - Poéticas del duelo. Conferencia Reina Sofía (2020) [transcripción].txt`**
   Transcripción de la conferencia de Víctor Vich en el Museo Reina Sofía (2020) sobre poéticas del duelo y representación de la pérdida.
+
+- **`Ulfe - La memoria, la esfera pública y la nación en tiempo heterogéneo (cap.).md`**
+  María Eugenia Ulfe. Memoria, temporalidad e identidad (con Ricoeur) y la idea de "nación en tiempo heterogéneo" en la esfera pública peruana. *(capítulo del libro Mirando la esfera pública desde la cultura en el Perú)*
+
+- **`Ulfe - Reflexiones sobre los usos del testimonio en la esfera pública peruana (cap.).md`**
+  María Eugenia Ulfe. Sobre los usos del testimonio y la construcción pública de la figura de la VÍCTIMA en el Perú. *(capítulo del mismo libro)*
+
+- **`Agüero & Del Pino (comps) - ¿Un museo después de Gaza? Dilemas sobre la memoria.md`**
+  José Carlos Agüero y Ponciano del Pino (comps.). Volumen sobre los dilemas de la memoria, la museificación y la representación del pasado violento (La Siniestra Ensayos).
